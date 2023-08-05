@@ -13,17 +13,28 @@ Link Prediction and Pairwise Node Classification (src_PSGL)
 Node Classification (src_PSGL_NC)
  
 # Experimental Setup
-Python 3.7.6
+Python 3.7.6 
+
 Pytorch 1.4.0
+
 NetworkX 2.3
+
 Cuda 10.0
+
 Libraries Required
+
 Pytorch
+
 PyTorch Geometric
+
 torch-scatter
+
 torch-sparse
+
 torch-cluster
+
 networkx
+
 tensorboardx
 
 # USAGE
