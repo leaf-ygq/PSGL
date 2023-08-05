@@ -7,7 +7,9 @@ Please cite our paper, if you use our source code.
 "Position and Structure-aware Graph Learning"
 # Code Structure
 There are two code folders:
+
 Link Prediction and Pairwise Node Classification (src_PSGL)
+
 Node Classification (src_PSGL_NC)
  
 # Experimental Setup
