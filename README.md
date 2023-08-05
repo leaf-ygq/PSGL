@@ -1,11 +1,5 @@
 # PSGL
 
-the code in src_PSGL is used for link prediction
-
-the code in src_PSGL_NC is used for node classification
-
-you can use the command ./cmd.sh to run the code.
-
 Both the structural and position information play important roles in node embedding. The classic GNNs in the literature could not tackle these two kinds of information well. To address this issue, we propose a novel PSGL framework to jointly learn the local structure and the global position information.
 
 Please cite our paper, if you use our source code.
